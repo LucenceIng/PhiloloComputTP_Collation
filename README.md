@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucenceIng/PhiloloComputTP_Collation/HEAD)
+
 # PhiloloComputTP_Collation
 
 Le dépôt contient les notebooks pour le TP organisé lors de la session 1 de la journée d'études du 2 décembre 2021 ["Philologie computationnelle: au delà de l’encodage du texte"](https://www.unil.ch/doc-digitalstudies/home/menuinst/activites-du-programme/Philologie-computationnelle.html).
