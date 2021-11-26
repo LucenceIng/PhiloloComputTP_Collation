@@ -4,3 +4,4 @@ collatex
 python-levenshtein
 graphviz
 lxml
+numpy
