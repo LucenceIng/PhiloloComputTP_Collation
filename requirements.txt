@@ -5,3 +5,4 @@ python-levenshtein
 graphviz
 lxml
 numpy
+pydot
